@@ -8,7 +8,12 @@ public class FindDuplicate {
 
         for(int i =0; i < arr.length; i++) {
 
+
             // using operator in feature1
+
+            // using operator
+
+
             ans = ans ^ arr[i];
         }
 
